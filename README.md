@@ -1,5 +1,5 @@
-👋 Olá, o meu nome é Ricardo Fernandes  
-👀 Interessado em Inteligência Artificial e Sistemas de Informação  
-🌱 Atualmente estou a aprender Programação de Dispositivos Móveis e Cibersegurança  
-🎯 Procuro colaborar em projetos de desenvolvimento de software  
-📫 Contacto: rfefernandescse@gmail.com
+👋 Hi, my name is Ricardo Fernandes  
+👀 Interested in Artificial Intelligence and Information Systems  
+🌱 Currently learning Mobile Device Programming and Cybersecurity  
+🎯 Looking to collaborate on software development projects  
+📫 Contact: rfefernandescse@gmail.com
